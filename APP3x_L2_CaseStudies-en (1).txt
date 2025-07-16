@@ -1,0 +1,78 @@
+[MUSIC PLAYING]
+
+HARVEY GREEN: For designing the app, we really had
+to consider who was our user going to be, and what were the main features?
+And through some discussions we had, we did
+decide we'd like to focus on both first aid
+course students and, of course, all of staff and volunteers at St. John,
+and then pushing it out into the wider community after that initial launch.
+So, yeah, so we focused initially on the first-responder feature.
+And that was a way that we got all the initial sign-ups.
+And in terms of design, yeah, we had all the screens mocked up by a UX designer.
+And so everything was--
+we reviewed it multiple times, and came up with the right sort of flow
+for the user.
+Wanted to make sure it was easy to log in, create an account within the app,
+and everything as simple as possible.
+I think it was using Adobe AIR.
+It's like an on-screen--
+it's just like a-- it looks like an app, but just the screen part of it,
+with not much interactivity.
+You can just go back and forward between the screens.
+And you can see where things have been highlighted
+to sort of emulate the buttons being clicked and that sort of thing.
+So it's a really good mock-up of what it would actually look like.
+And that was really invaluable.
+Before you actually started working on the app,
+you really wanted to do the mock-ups, and make
+sure you've got the flow right, what features you want to highlight.
+Yeah, we had-- for the app, we've got like a simple dashboard on the Home
+screen.
+And it's just really easy.
+You click on the tile.
+The tile can have an icon and a title, and that opens its own screen.
+And then to return, you just go back.
+There's often other screens off there.
+But they are the main features you access.
+And they've got the ability to, if needed, those tiles can be basically
+swapped out to put different type of images on there,
+like a promotion or something like that.
+That's still in the database backend.
+So, yeah, to customise the app.
+MARCO MORALES: For us, certainly, in the early days and early versions
+of the mobile application, we focused a lot
+on really narrowly focusing the design use case that we were building for
+and the target audience that we were focused on building for.
+Over time, we've been able to sort of address more and more of the feedback
+that people have had about the applications and the reviews.
+So reviews have been a great source of input for us,
+figuring out what exactly needs to be added to the application,
+where are areas are we falling short?
+What can we do better?
+And so in a lot of ways, the reviews do help power and define
+the direction of the applications.
+NICHOLAS WITTISON: Week to week, we had direct input
+from Mel, who's the CEO, and Cam, who's the CPO, so two
+of Canva's founders, kind of into how the app fits inside the--
+inside the market, so what kind of use cases we have,
+and what kind of users want to use the app,
+as well as kind of how it should look and feel,
+so how the app should feel on the mobile platforms, but also how it's--
+what kind of things that people expect when they come
+to a graphics application like Canva.
+So when we look at the iPad app, it was very similar to what the desktop web
+platform looks like.
+This kind of rectangle size was pretty similar.
+And a lot of the kind of UI was similar as well.
+But the thing we really had to design around
+was touch, so looking at how people interacted
+with that kind of drag-and-drop interface,
+how they moved things around what we call the canvas in the middle,
+and how they wanted to interact with those kind of elements.
+
+On top of that, the icons and kind of design aspect of what people expect
+on the native platforms is different to what people expect on web,
+so making sure we could not only localise it like we do today
+in different languages, but localise it to the platform as well,
+and make sure that people could really and easily take to the app without
+having to think too hard about how all the different pieces meshed together.
